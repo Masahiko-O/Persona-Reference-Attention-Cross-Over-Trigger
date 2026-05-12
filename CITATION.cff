@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "Cross-Over Trigger Function via Persona Reference Attention and Drift-Resistant Anchoring via Named-Subject Persona Reference Attention (PRACT)"
+message: "If you use this work, please cite the preprint below."
+type: software
+authors:
+  - family-names: "O"
+    given-names: "Masahiko"
+date-released: 2026-05-02
+license: CC-BY-4.0
+repository-code: "https://github.com/Masahiko-O/Persona-Reference-Attention-Cross-Over-Trigger"
+url: "https://doi.org/10.5281/zenodo.20024118"
+identifiers:
+  - description: "The DOI of the Zenodo v1.1 preprint (this version)."
+    type: doi
+    value: "10.5281/zenodo.20024118"
+  - description: "The Zenodo concept DOI (all versions)."
+    type: doi
+    value: "10.5281/zenodo.19975248"
+keywords:
+  - "prompt engineering"
+  - "persona reference attention"
+  - "cross-over trigger"
+  - "persona drift prevention"
+  - "named subject construction"
+  - "attention decay mitigation"
+  - "long-form session stability"
+  - "attention mechanism"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "O"
+      given-names: "Masahiko"
+  title: "Cross-Over Trigger Function via Persona Reference Attention and Drift-Resistant Anchoring via Named-Subject Persona Reference Attention (PRACT)"
+  year: 2026
+  month: 5
+  doi: "10.5281/zenodo.20024118"
+  url: "https://doi.org/10.5281/zenodo.20024118"
+  publisher:
+    name: "Zenodo"
